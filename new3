@@ -1,7 +1,12 @@
 this is 1st line added by testgit on branch develop
 <<<<<<< HEAD
 add by testgit branch dev2
+<<<<<<< HEAD
 =======
 add by testgit branch dev1
 >>>>>>> dev1
 add by tesgit branch master
+=======
+add by testgit branch dev1 second times
+
+>>>>>>> 1st commit of testgit in branch dev1 from HEAD detached at f006246
