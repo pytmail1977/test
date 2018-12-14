@@ -1,2 +1,3 @@
 hello, this is 1st line;
 this is added by testgit before integered from remote repo.
+hai,this is 2nd line from testgit2;
