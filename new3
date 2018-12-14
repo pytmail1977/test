@@ -1,2 +1,6 @@
 this is 1st line added by testgit on branch develop
+<<<<<<< HEAD
 add by testgit branch dev2
+=======
+add by testgit branch dev1
+>>>>>>> dev1
